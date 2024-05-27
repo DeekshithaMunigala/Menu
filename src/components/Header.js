@@ -5,7 +5,6 @@ const Header = () => {
     <div>
       <div className="title">Our Menu</div>
       <div className="title-underline"></div>
-      <Buttons />
     </div>
   );
 };
